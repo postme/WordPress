@@ -1,0 +1,11 @@
+/*
+Theme Name:     meint
+Theme URI:      http://meint.net/
+Description:    Roots Child Theme
+Author:         Meint Post
+Author URI:     http://meint.net
+Template:       roots
+Version:        0.1.0
+*/
+
+@import url("../roots/style.css");
